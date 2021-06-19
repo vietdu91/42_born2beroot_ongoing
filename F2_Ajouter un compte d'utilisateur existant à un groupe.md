@@ -8,4 +8,4 @@ vietdu91@bg42:~$ sudo usermod -a -G sudo vietdu91
 ```
 
 > :warning: Sans le flag *"-a"*,  l'instruction ajoute bien l’utilisateur au groupe mais en l’enlevant des groupes auxquels il appartient déjà ! Il faut donc tout simplement ajouter *"-a"*, qui ajoute les nouveaux droits à l’utilisateur sans retirer les droits précédemment acquis. 
-> **DE PLUS : **le paramètre *"-a"* doit impérativement se trouver avant *-G* car *-G* suppose que *"-a"* est un groupe.
+> **DE PLUS :** le paramètre *"-a"* doit impérativement se trouver avant *-G* car *-G* suppose que *"-a"* est un groupe.
