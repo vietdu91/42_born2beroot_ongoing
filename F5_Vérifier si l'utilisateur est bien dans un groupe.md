@@ -13,5 +13,5 @@ vietdu91@bg42:~$ getent group sudo | cut -d: -f4
 vietdu91
 ```
 
-> Le programme *getent* récupère des entrées dans la base de données d’administration spécifiée en utilisant la clé de recherche spécifiée.
+> Le programme ```getent``` récupère des entrées dans la base de données d’administration spécifiée en utilisant la clé de recherche spécifiée.
 Plus de détails : http://manpages.ubuntu.com/manpages/trusty/fr/man1/getent.1.html
