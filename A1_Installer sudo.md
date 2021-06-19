@@ -1,4 +1,4 @@
-## **Born2BeRoot**  || **B1** | :crown:  Installer sudo 
+## **Born2BeRoot**  || **B1** | :crown:    Installer sudo 
 
 __But :__ Installer sudo, absent dans un système d'exploitation
 
