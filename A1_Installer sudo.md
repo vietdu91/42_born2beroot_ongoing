@@ -15,7 +15,7 @@ root@bg42:~$
 root@bg42:~$ apt-get install sudo
 ```
 
-3. Vérifie si sudo a été installé avec succès 
+*3. Vérifie si sudo a été installé avec succès*
 
 ```
 root@bg42:~$ dpkg -l | grep sudo
