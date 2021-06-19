@@ -1,11 +1,11 @@
 ## **Born2BeRoot**  || **B1** | :crown: Installer sudo 
 
-**But :** Installer sudo, absent dans un système d'exploitation
+> **But :** Installer sudo, absent dans un système d'exploitation
 
-*1. Mets-toi en mode* root *via la commande* su
+* 1. Mets-toi en mode* root *via la commande* su
 ```vietdu91@bg42:~$ su
 Password :
-root@bg42:~$```
+root@bg42:~$
 
 *2. Installe* sudo *via* apt-get *et cette ligne de commande* :
 
