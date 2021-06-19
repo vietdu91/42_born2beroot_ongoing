@@ -2,7 +2,7 @@
 
 __But :__ Installer sudo, absent dans un système d'exploitation
 
-* 1. Mets-toi en mode* root *via la commande* su
+1. Mets-toi en mode* root *via la commande* su
 ```
 vietdu91@bg42:~$ su
 Password :
