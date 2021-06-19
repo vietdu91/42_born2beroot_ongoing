@@ -1,5 +1,4 @@
 ## SOMMAIRE || Born2BeRoot - THE Project 
-==========================================================================
 
 # :pencil2: *Système*
 
@@ -48,7 +47,7 @@
 **E1.** Modifier le mot de passe d'un utilisateur
 
 
-# :people_hugging: *Groupes et utilisateurs*
+# 👥 *Groupes et utilisateurs*
 
 **F1.** Créer un nouvel utilisateur et l'attribuer à un groupe (useradd)
 
