@@ -1,12 +1,12 @@
-##SOMMAIRE || Born2BeRoot - THE Project 
+## SOMMAIRE || Born2BeRoot - THE Project 
 ==========================================================================
 
-#:pencil2: *Système*
+# :pencil2: *Système*
 
 **A1.** Modifier le hostname du système
 
 
-#:crown: *Administrateur et sudo*
+# :crown: *Administrateur et sudo*
 
 **B1.** Installer sudo (sudo . apt-get . dpkg -l)
 
@@ -29,7 +29,7 @@
 **B10.** Activer sudo sur la session de connexion de l'utilisateur TTY (requieretty)
 
 
-#:key: *SSH*
+# :key: *SSH*
 
 **C1.** Installer SSH (apt-get . openssh-server . dpkg - l)
 
@@ -38,17 +38,17 @@
 **C3.** Autoriser/Refuser l’accès root via SSH (PermitRootLogin)
 
 
-#:fire: *UFW*
+# :fire: *UFW*
 
 **D1.** ...
 
 
-#:speak_no_evil: *Gestion des mots de passe*
+# :speak_no_evil: *Gestion des mots de passe*
 
 **E1.** Modifier le mot de passe d'un utilisateur
 
 
-#:people_hugging: *Groupes et utilisateurs*
+# :people_hugging: *Groupes et utilisateurs*
 
 **F1.** Créer un nouvel utilisateur et l'attribuer à un groupe (useradd)
 
@@ -63,6 +63,6 @@
 **F6.** Ajouter un nouveau groupe (groupadd)
 
 
-#:scroll: *Scripts et Cron*
+# :scroll: *Scripts et Cron*
 
 **G1.** ...
