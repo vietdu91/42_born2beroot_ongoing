@@ -2,7 +2,7 @@
 
 __But :__ Afficher les groupes auxquels le compte d'utilisateur actuel est affecté et afficher les identifiants numériques associés à chaque groupe
 
-*1. Pour afficher les groupes auxquels le compte d'utilisateur actuel est affecté , exécute la commande* groups*. Tu verras une liste de groupes*
+*1. Pour afficher les groupes auxquels le compte d'utilisateur actuel est affecté , exécute la commande* groups. *Tu verras une liste de groupes*
 ```
 vietdu91@bg42:~$ groups
 vietdu91 sudo user42
