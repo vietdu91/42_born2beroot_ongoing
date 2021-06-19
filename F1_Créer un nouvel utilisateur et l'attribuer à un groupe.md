@@ -2,7 +2,7 @@
 
 __But :__ Spécifier les groupes (*sudo*) auxquels un compte d'utilisateur *marceldu56* sera affecté lors de la création du compte utilisateur
 
-*1. Crée un nouvel utilisateur et assigne ce compte au groupe souhaité via la commande* useradd
+*1. Crée un nouvel utilisateur et assigne ce compte au groupe souhaité via la commande* ```useradd```
 ```
 vietdu91@bg42:~$ sudo useradd -G sudo marceldu56
 ```
