@@ -1,4 +1,4 @@
-## **Born2BeRoot**  || **B7** | :crown: Créer un sudo Log File (logfile . log_host . log_year)
+## **Born2BeRoot**  || **B7** | :crown: Créer un sudo Log File
 
 __But :__ Créer un fichier journal personnalisé de ```sudo``` à travers le paramètre ```logfile```
 ```
