@@ -2,6 +2,7 @@
 
 __But :__ Sécuriser le PATH utilisé pour chaque commande exécutée avec ```sudo```
 
+
 > Le PATH est une variable d'environnement qui liste les répertoires dans lesquels peuvent être placés des fichiers exécutables. Si un exécutable n'est pas placé dans l'un de ces répertoires, il sera nécessaire d'indiquer le chemin exact chaque fois qu'on l'appellera.
 
 > Ce PATH sécurisé est utilisé lorsqu'un administrateur système ne fait pas confiance aux utilisateurs de ```sudo``` pour avoir une variable d'environnement PATH sécurisée. 
