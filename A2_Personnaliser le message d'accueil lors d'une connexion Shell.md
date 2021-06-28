@@ -12,7 +12,7 @@ the exact distribution terms for each program are described in the individual fi
 Devian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent permitted by applicable law.
 ```
 
--- AVANT 🤩 :
+-- APRES 🤩 :
 ```
 Bienvenue dans mon humble demeure BB.
 
