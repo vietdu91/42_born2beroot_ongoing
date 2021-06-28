@@ -6,6 +6,8 @@
 
 ```A2.``` Personnaliser le message d'accueil lors d'une connexion Shell
 
+```A3.``` Afficher la liste et les caractéristiques des disques et des partitions (lsblk)
+
 
 # :crown: *Administrateur et sudo*
 
@@ -38,10 +40,14 @@
 
 ```C3.``` Autoriser/Refuser l’accès root via SSH (PermitRootLogin)
 
+```C4.``` Se connecter au serveur via SSH (ssh)
+
 
 # :fire: *UFW*
 
-```D1.``` ...
+```D1.``` Installer et démarrer UFW (apt-get . dpkg -l . enable)
+
+```D2.``` Autoriser les connexions entrantes (allow)
 
 
 # :speak_no_evil: *Gestion des mots de passe*
