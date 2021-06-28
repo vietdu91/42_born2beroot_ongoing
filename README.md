@@ -54,6 +54,10 @@
 
 ```E1.``` Modifier le mot de passe d'un utilisateur
 
+```E2.``` Modifier la durée de vie d'un mot de passe (login.defs)
+
+```E3.``` Etablir une politique de mot de passe fort (libpam-pwquality . common-password)
+
 
 # 👥 *Groupes et utilisateurs*
 
