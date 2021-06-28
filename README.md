@@ -4,6 +4,8 @@
 
 ```A1.``` Modifier le hostname du système
 
+```A2.``` Personnaliser le message d'accueil lors d'une connexion Shell
+
 
 # :crown: *Administrateur et sudo*
 
@@ -64,4 +66,21 @@
 
 # :scroll: *Scripts et Cron*
 
-```G1.``` ...
+```G1.``` Petits rappels de commandes Shell ($ . cat . grep . echo . wc)
+
+```G2.``` Créer un fichier .sh
+
+```G3.``` Maîtriser l'art de la syntaxe de awk (awk)
+
+```G4.``` Utiliser les conditions dans les scripts .sh (if . then . else . fi)
+
+```G5.``` Utiliser les comparateurs dans les scripts .sh (-eq . -ne . -gt . -ge . -lt . -le . -z)
+
+```G6.``` Editer le fichier de crontab (crontab)
+
+```G7.``` Démarrer / Arrêter le processus de cron (start . stop) 
+
+
+# 🗞 *Wordpress*
+
+```H1.``` Installer Wordpress en local
