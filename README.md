@@ -8,6 +8,8 @@
 
 ```A3.``` Afficher la liste et les caractéristiques des disques et des partitions (lsblk)
 
+```A4.``` Désinstaller proprement des paquets (remove . purge . --purge autoremove)
+
 
 # :crown: *Administrateur et sudo*
 
